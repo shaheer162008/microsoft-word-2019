@@ -1,54 +1,35 @@
-# 🚀 Microsoft Office 2019 Installer (Word, Excel, PowerPoint Only)
-
-Welcome to the **Ultimate Office 2019 Installer** for Windows! This repo lets you install **Word, Excel, and PowerPoint** (NO OneDrive, NO extra bloat) on any Windows device in just a few clicks. 
-
----
-
-## ✨ Features
-- **Installs Only What You Need:** Word, Excel, PowerPoint
-- **No OneDrive!**
-- **No Internet Required After Download**
-- **Works on Every Windows Device**
-- **Super Simple: Just Download, Unzip, and Run**
+# 🚀 Project Title
+Short tagline or purpose of the repo.
 
 ---
 
-## 🦄 How To Use (3 Easy Steps)
-
-1. **Download ZIP**
-   - Click the green `Code` button above, then `Download ZIP`.
-2. **Unzip**
-   - Extract the ZIP file anywhere on your PC.
-3. **Run Installer**
-   - Double-click `Install Microsoft-Office-2019.bat` and follow the instructions.
+## 🎬 Video Tutorial
+- 📺 [Watch on YouTube](https://youtube.com/your-video-link)
+- 📸 [Google Photos Preview](https://photos.app.goo.gl/your-link)
+- 🔗 [Creator's Channel](https://youtube.com/@creator)
 
 ---
 
-## 📦 What’s Inside?
-- `Install Microsoft-Office-2019.bat`  ← **Run this!**
-- `office-2019.xml`                   ← Configuration file (Word, Excel, PowerPoint only)
-- `setup.exe`                         ← Official Microsoft Office setup tool
+## 📌 What This Repo Is
+This repository is a guide to help you reach the correct tutorial for installing Microsoft Office 2019 (Word, Excel, PowerPoint) on Windows.  
+It does **not** contain installation files — just links and instructions.
 
 ---
 
-## 💡 Pro Tips
-- **No admin skills needed!**
-- **No OneDrive will be installed.**
-- **Fast, clean, and safe.**
+## 🛠️ How To Use
+1. Click the links above to watch the tutorial.
+2. Follow the steps shown in the video.
+3. Enjoy your Office setup!
 
 ---
 
-## 🏆 Why This Repo?
-- **No more bloatware!**
-- **No complicated steps!**
-- **Just the essentials for productivity.**
+## ❤️ Support & Credits
+- Full credit goes to the original video creator.
+- If you found this helpful, give this repo a ⭐ and follow me on Instagram: [@shaheer__yousuf](https://instagram.com/shaheer__yousuf)
 
 ---
 
-## ⚡️ Start Installing Now!
+## 📣 Disclaimer
+This repo is for educational and personal use only.  
+No files are hosted here — only guidance and links to public tutorials.
 
-> **Download, Unzip, Run the BAT file. That’s it!**
-
----
-
-### Made for fans of simplicity and speed. Enjoy your Office 2019 experience! 🎉
